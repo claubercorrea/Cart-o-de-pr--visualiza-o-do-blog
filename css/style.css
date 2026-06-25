@@ -10,7 +10,7 @@ body {
     display: flex;
     position: relative;
     min-width:100vw;
-    min-height: 100vh;
+    width: 100%;
     justify-content: center;
     margin: auto;
     padding: 0;    
@@ -36,9 +36,9 @@ body {
     margin: auto;
     margin-top: 100px;
     background: white;
-    width: 367px;
+    width: 367rem;
     height: 518px;
-    box-shadow: 10px 5px 0px 3px;
+    box-shadow: 10px 5px 0px;
     border-radius: 25px;
 }
 
@@ -55,10 +55,7 @@ body {
     
 }
 
-.ilustriimg > img:hover{
-   width: calc(22em);
-   border: 2px solid black;
-}
+
 .sub{
     background-color: hsl(47, 88%, 63%);
     padding: 0;
@@ -128,7 +125,7 @@ color:hsl(0, 0%, 42%);
     }
     
 
-@media (max-width:375px){
+@media (min-width:375px){
 .container_cartao{
         width: 316px;
         display: flex;
@@ -168,18 +165,7 @@ color:hsl(0, 0%, 42%);
         margin-top: -2%;
     }
 
-      .ilustriimg img:hover{
-        width: 300px;
-    }
-    .container-footer{
-                margin-top: -31px;
-    }
 
-      /* .imgfooter {
-        display: flex;
-        position: static;
-        margin-left: 10px;
-    } */
     .subfooter{
    
   
