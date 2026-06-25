@@ -1,6 +1,6 @@
 📷 Pré-visualização
 Veja abaixo como ficou o resultado final do componente:
-<img src="./img/Captura de tela 2026-06-25 013113.png" />
+<img src="./img/Captura de tela 2026-06-24 214345.png" />
 🚀 Tecnologias Utilizadas
 HTML5: Estruturação semântica do conteúdo.
 
